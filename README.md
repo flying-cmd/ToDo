@@ -9,7 +9,7 @@
 ## Run command:
 1. Intasll
 ```
-cd Todo-App
+cd ToDo
 npm install
 ```
 
